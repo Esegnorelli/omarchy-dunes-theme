@@ -1,0 +1,32 @@
+# Dunes — colors inspired by the Pop!_OS 22.04 GTK palette (https://github.com/pop-os/gtk-theme). Not affiliated with System76.
+mode = "dark"
+
+accent = "#fbb86c"
+selection = "#474341"
+muted = "#666666"
+
+background = "#303030"
+dark_background = "#272727"
+darker_background = "#222222"
+lighter_background = "#363636"
+
+foreground = "#cccccc"
+dark_foreground = "#888888"
+light_foreground = "#aaaaaa"
+bright_foreground = "#ffffff"
+
+red = "#ea9090"
+yellow = "#f9d87a"
+orange = "#fbb86c"
+green = "#90cfb0"
+cyan = "#6acad8"
+blue = "#95c4fc"
+magenta = "#d58cff"
+brown = "#9b8e8a"
+
+bright_red = "#ffb5b5"
+bright_yellow = "#fff19e"
+bright_green = "#acf7d2"
+bright_cyan = "#94ebeb"
+bright_blue = "#bddbff"
+bright_magenta = "#e5b3ff"
