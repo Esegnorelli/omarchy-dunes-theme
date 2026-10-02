@@ -9,7 +9,7 @@ are inspired by the classic GNOME-era GTK palette of Pop!_OS 22.04.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/OWNER/omarchy-dunes-theme
+omarchy theme install https://github.com/Esegnorelli/omarchy-dunes-theme
 ```
 
 
