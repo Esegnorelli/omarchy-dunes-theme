@@ -15,8 +15,8 @@ omarchy theme install https://github.com/Esegnorelli/omarchy-dunes-theme
 
 ## Wallpapers
 
-Starry desert dunes by default, plus space, illustrated desert, canyon and
-moon. Cycle them with `omarchy theme bg next`.
+An illustrated robot over a city skyline by default, plus starry desert
+dunes, space, illustrated desert, canyon and moon. Cycle them with `omarchy theme bg next`.
 
 ## Credits & license
 
